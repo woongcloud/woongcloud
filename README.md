@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft, &text=Hello%World!) 
+![header](https://capsule-render.vercel.app/api?type=soft&text=Hello%World!) 
 
 
